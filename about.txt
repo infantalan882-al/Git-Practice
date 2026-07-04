@@ -1,0 +1,3 @@
+Name: Infant Alan
+Learning Git and GitHub
+This is my first Git practice.
